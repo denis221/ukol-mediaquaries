@@ -1,0 +1,44 @@
+html {
+    background-color: #30948B;
+}
+
+h1 {
+    font-family: "Georgia";
+    color: rgb(11, 12, 90);
+    text-align: center;
+    font-size: 75px;
+}
+
+h2 {
+    font-family: "Georgia";
+    color: rgb(6, 75, 67);
+}
+
+h3 {
+    font-family: "Georgia";
+    color: #554422;
+}
+
+p {
+    font-family: "Helvetica";
+    color: #454545;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid orange;
+}
+
+ul {
+    font-family: "Helvetica";
+    color: #4CE6E4;
+}
+
+footer {
+    font-family: "Georgia";
+    color: #444444;
+    font-size: 20px;
+    text-align: center;
+}
